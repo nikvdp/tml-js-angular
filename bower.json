@@ -10,7 +10,7 @@
     "erapoport"
   ],
   "dependencies": {
-      "tml-js-browser": "git://github.com/translationexchange/tml-js-browser#0.4.40"
+      "tml-js-browser": "git://github.com/translationexchange/tml-js-browser#master"
   },
   "license": "MIT",
   "ignore": [
